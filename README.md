@@ -3,6 +3,7 @@
 - I have used a CatBoostClassifer to train the model and achieved a test accuracy of 85%
 
 Some of the key findings from the dataset are:
+- Traffic signals and crossings have the highest impact on the Severity of an accident
 - The city of Miami, county of Los Angeles, state of California have faced the highest number of accidents
 - The highest number of accidents have happened in the Easter timezone
 - Majority of the accidents have happened during the daytime
