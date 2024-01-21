@@ -13,4 +13,4 @@ Some of the key findings from the dataset are:
 - 25% of the accidents have affected the traffic for over a mile in terms of distance
 
 
-  Another interesting data is that a particular accident has caused traffic for a whopping 441.75 miles!
+Another interesting data is that a particular accident has caused traffic for a whopping 441.75 miles!
